@@ -50,6 +50,8 @@ Tools for managing the environment of various programming languages.
 
 ## Terminal
 
+Programs that specifically run the in the terminal (which should be [iTerm2](https://iterm2.com), not the terminal program that ships with MacOS)
+
 | Name | Description |
 |---|---|
 | [iTerm2](https://iterm2.com) | Must-have terminal replacement that should just ship with macos at this point |
@@ -62,6 +64,8 @@ Tools for managing the environment of various programming languages.
 | [tig](https://github.com/jonas/tig) | Mostly unnecessary if you're using `lazygit`, but can still be helpful for quickly viewing `git` history |
 
 ## Developer Tools
+
+Other tools to aid you in the development of software.
 
 | Name | Description |
 |---|---|
