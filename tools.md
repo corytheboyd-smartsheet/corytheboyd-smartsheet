@@ -3,11 +3,11 @@
 Big list of tools that I use. You can use them too if you would like!
 
 * [MacOS](#MacOS)
-* Note Taking
-* Code Editor
-* Code Environment
-* Terminal
-* Developer Tools
+* [Note Taking](#Note-Taking)
+* [Code Editor](#Code-Editor)
+* [Code Environment](#Code-Environment)
+* [Terminal](#Terminal)
+* [Developer Tools](#Developer-Tools)
 
 ## MacOS
 
