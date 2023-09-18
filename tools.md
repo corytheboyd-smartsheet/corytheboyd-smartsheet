@@ -11,6 +11,8 @@ Big list of tools that I use. You can use them too if you would like!
 
 ## MacOS
 
+Software that specifically runs on MacOS-- i.e. not in the terminal, etc.
+
 | Name | Description |
 |---|---|
 | [Alfred](https://www.alfredapp.com) | Remove the default keybinding in MacOS for spotlight, and set that shortcut in Alfred to open Alfred instead. Amazing tool that at the very least by default, is a better Spotlight search. Look into the power user features at your leisure |
@@ -18,15 +20,17 @@ Big list of tools that I use. You can use them too if you would like!
 | [keycastr](https://github.com/keycastr/keycastr) | Visualize important key presses on your computer to communicate them to viewers when screen sharing |
 | [Skitch](https://apps.apple.com/us/app/skitch-snap-mark-up-share/id425955336?mt=12) | Image annotation tool. Useful for taking screenshots, and adding visual elements to highlight something, blur out sensitive bits, etc. |
 
-
-
 ## Note Taking
+
+Software useful for note taking.
 
 | Name | Description |
 |---|---|
 | [Joplin](https://joplinapp.org) | Markdown note editor and organizer. Can sync notes directires with WebDAV. Completely offline FOSS |
 
 ## Code Editor
+
+Code editors and code editor accessories.
 
 | Name | Description |
 |---|---|
@@ -35,6 +39,8 @@ Big list of tools that I use. You can use them too if you would like!
 | [spf13-vim](https://vim.spf13.com)https://vim.spf13.com | Sane code editing defaults for `vim` |
 
 ## Code Environment
+
+Tools for managing the environment of various programming languages.
 
 | Name | Description |
 |---|---|
@@ -50,6 +56,7 @@ Big list of tools that I use. You can use them too if you would like!
 | [oh-my-zsh](https://ohmyz.sh) | `zsh` enhancement suite |
 | [powerlevel10k](https://github.com/romkatv/powerlevel10k)https://github.com/romkatv/powerlevel10k | The only ohmyzsh theme that you need |
 | [fzf](https://github.com/junegunn/fzf)https://github.com/junegunn/fzf | Fuzzy finder. [Install key bindings](https://github.com/junegunn/fzf#key-bindings-for-command-line)https://github.com/junegunn/fzf#key-bindings-for-command-line to make `ctrl-r` recursive search UX actually good |
+| [homebrew](https://brew.sh) | The MacOS package manager. Just install it, something will inevitably want you to have it installed |
 | [lazygit](https://github.com/jesseduffield/lazygit)https://github.com/jesseduffield/lazygit | The essential `git` UI. Doesn't do everything, but the 99% it does is 100% less error prone and 100% faster than hacking together `git` commands ad-hoc |
 | [lazydocker](https://github.com/jesseduffield/lazydocker)https://github.com/jesseduffield/lazydocker | Similar to lazygit, a UI for running docker/compose containers. Again, doesn't do it all, but what it does is better than doing it ad-hoc |
 | [tig](https://github.com/jonas/tig) | Mostly unnecessary if you're using `lazygit`, but can still be helpful for quickly viewing `git` history |
