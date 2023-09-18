@@ -34,9 +34,9 @@ Code editors and code editor accessories.
 
 | Name | Description |
 |---|---|
-| [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/)https://www.jetbrains.com/toolbox-app/ | Manage JetBrains IDE installations |
-| [VSCodium](https://vscodium.com)https://vscodium.com | Community built VSCode binaries free of Microsoft telemetry |
-| [spf13-vim](https://vim.spf13.com)https://vim.spf13.com | Sane code editing defaults for `vim` |
+| [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) | Manage JetBrains IDE installations |
+| [VSCodium](https://vscodium.com) | Community built VSCode binaries free of Microsoft telemetry |
+| [spf13-vim](https://vim.spf13.com) | Sane code editing defaults for `vim` |
 
 ## Code Environment
 
@@ -45,8 +45,8 @@ Tools for managing the environment of various programming languages.
 | Name | Description |
 |---|---|
 | [rbenv](https://github.com/rbenv/rbenv) | Use this as your Ruby version manager instead of `rvm`, and thank me later |
-| [nvm](https://github.com/nvm-sh/nvm)https://github.com/nvm-sh/nvm | Nodejs version manager |
-| [gvm](https://github.com/moovweb/gvm)https://github.com/moovweb/gvm | Golang version manager |
+| [nvm](https://github.com/nvm-sh/nvm) | Nodejs version manager |
+| [gvm](https://github.com/moovweb/gvm) | Golang version manager |
 
 ## Terminal
 
@@ -56,11 +56,11 @@ Programs that specifically run the in the terminal (which should be [iTerm2](htt
 |---|---|
 | [iTerm2](https://iterm2.com) | Must-have terminal replacement that should just ship with macos at this point |
 | [oh-my-zsh](https://ohmyz.sh) | `zsh` enhancement suite |
-| [powerlevel10k](https://github.com/romkatv/powerlevel10k)https://github.com/romkatv/powerlevel10k | The only ohmyzsh theme that you need |
-| [fzf](https://github.com/junegunn/fzf)https://github.com/junegunn/fzf | Fuzzy finder. [Install key bindings](https://github.com/junegunn/fzf#key-bindings-for-command-line)https://github.com/junegunn/fzf#key-bindings-for-command-line to make `ctrl-r` recursive search UX actually good |
+| [powerlevel10k](https://github.com/romkatv/powerlevel10k) | The only ohmyzsh theme that you need |
+| [fzf](https://github.com/junegunn/fzf) | Fuzzy finder. [Install key bindings](https://github.com/junegunn/fzf#key-bindings-for-command-line)https://github.com/junegunn/fzf#key-bindings-for-command-line to make `ctrl-r` recursive search UX actually good |
 | [homebrew](https://brew.sh) | The MacOS package manager. Just install it, something will inevitably want you to have it installed |
-| [lazygit](https://github.com/jesseduffield/lazygit)https://github.com/jesseduffield/lazygit | The essential `git` UI. Doesn't do everything, but the 99% it does is 100% less error prone and 100% faster than hacking together `git` commands ad-hoc |
-| [lazydocker](https://github.com/jesseduffield/lazydocker)https://github.com/jesseduffield/lazydocker | Similar to lazygit, a UI for running docker/compose containers. Again, doesn't do it all, but what it does is better than doing it ad-hoc |
+| [lazygit](https://github.com/jesseduffield/lazygit) | The essential `git` UI. Doesn't do everything, but the 99% it does is 100% less error prone and 100% faster than hacking together `git` commands ad-hoc |
+| [lazydocker](https://github.com/jesseduffield/lazydocker) | Similar to lazygit, a UI for running docker/compose containers. Again, doesn't do it all, but what it does is better than doing it ad-hoc |
 | [tig](https://github.com/jonas/tig) | Mostly unnecessary if you're using `lazygit`, but can still be helpful for quickly viewing `git` history |
 
 ## Developer Tools
