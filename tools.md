@@ -1,3 +1,14 @@
+# Tools
+
+Big list of tools that I use. You can use them too if you would like!
+
+* [MacOS](./#MacOS)
+* Note Taking
+* Code Editor
+* Code Environment
+* Terminal
+* Developer Tools
+
 ## MacOS
 
 | Name | Description |
@@ -9,7 +20,7 @@
 
 
 
-## Note taking
+## Note Taking
 
 | Name | Description |
 |---|---|
