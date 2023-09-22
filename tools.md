@@ -16,9 +16,35 @@ Software that specifically runs on MacOS-- i.e. not in the terminal, etc.
 | Name | Description |
 |---|---|
 | [Alfred](https://www.alfredapp.com) | Remove the default keybinding in MacOS for spotlight, and set that shortcut in Alfred to open Alfred instead. Amazing tool that at the very least by default, is a better Spotlight search. Look into the power user features at your leisure |
-| [Hammerspoon](http://www.hammerspoon.org) | After installed, [follow instructions for using the `shiftit` script](https://github.com/peterklijn/hammerspoon-shiftit) for window size/position management via keyboard shortcuts |
+| [Rectangle](https://rectangleapp.com) | Window manager, for moving windows right/left/center etc. It works, it's good, just use it |
 | [keycastr](https://github.com/keycastr/keycastr) | Visualize important key presses on your computer to communicate them to viewers when screen sharing |
 | [Skitch](https://apps.apple.com/us/app/skitch-snap-mark-up-share/id425955336?mt=12) | Image annotation tool. Useful for taking screenshots, and adding visual elements to highlight something, blur out sensitive bits, etc. |
+
+### Alfred
+
+Notable features that I quite enjoy:
+
+- **Clipboard History**: Save a clipboard history, recall items using search
+    
+    <details>
+
+    |   |   |
+    |---|---|
+    | Configuration options | ![Alfred clipboard history](alfred-clipboard-history-configuration.png) |
+    | Search and preview items in clipboard history (`enter`` pastes the selected item). Even works with images! | ![Alfred clipboard history search and preview](alfred-clipboard-history-search.png) |
+
+    </details>
+
+- **Web Bookmarks**: Index your browser bookmarks for text search
+
+    <details>
+
+    |   |   |
+    |---|---|
+    | Configuration options | ![Alfred web bookmarks configuration](alfred-web-bookmarks-configuration.png)
+    | Search for bookmarks | ![Alfred web bookmarks search](alfred-web-bookmarks-search.png) |
+
+    </details>
 
 ## Note Taking
 
